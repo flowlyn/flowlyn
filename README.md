@@ -11,7 +11,7 @@
 </a>
 <br>
 <p align="center">
-    <a href="https://discord.com/users/835239628319621121"><img width="7%" alt="Discord" title="Discord" src="https://imgur.com/INRJRUh.png"/></a>
+    <a href="https://discord.com/users/1197387246349864970"><img width="7%" alt="Discord" title="Discord" src="https://imgur.com/INRJRUh.png"/></a>
 </p>
 
 <br><br><br>
