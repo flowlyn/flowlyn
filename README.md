@@ -13,7 +13,7 @@ Flowlyn
 ▔▔▔▔▔▔▔▔▔
 OS: Windows 11 x64
 Shell: Windows Terminal
-Pronouns: João
+Pronouns: Flowlyn
 Location: EUA, Florida
 Skills: Lua, JavaScript, HTML, CSS
 Currently learning: Python, C#, C++
