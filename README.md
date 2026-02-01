@@ -1,11 +1,26 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFFFFF&section=header&text=Welcome%20to%20my%20profile&fontSize=30&animation=fadeIn&fontAlignY=40" width="100%" />
+    ‹ Este perfil só funciona no tema escuro do GitHub! ›
 </p>
+<br>
+<a href="https://github.com/SamuelSteles">
+    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/></a>
+    <a href="#">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+profile."/>
+</a>
+</a>
+<br>
+<p align="center">
+    <a href="https://discord.com/users/835239628319621121"><img width="7%" alt="Discord" title="Discord" src="https://imgur.com/INRJRUh.png"/></a>
+</p>
+
+<br><br><br>
 
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://images-ext-1.discordapp.net/external/Ph5GfV9SdYbtVA-n9T1Pof8yMzIE0Ryl5RbTrUH5AZ4/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/1197387246349864970/abd8978b295f3313db505534b0ad251f.png?format=webp&quality=lossless" width="230"/>
+
+<a href="#"><img align="left" src="https://avatars.githubusercontent.com/u/209976440?v=4" width="230"/> 
 
 
 ```lua
@@ -16,7 +31,17 @@ Shell: Windows Terminal
 Pronouns: Flowlyn
 Location: EUA, Florida
 Skills: Lua, JavaScript, HTML, CSS
-Currently learning: Python, C#, C++
+Currently learning: Phyton, C#, C++
 Hobbies: Cheating, Sleep, Programming
 ```
-<p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer"> </p>
+
+<br><br>
+
+<br>
+<p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Views-109,426-gray?style=for-the-badge"/></a>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/biscurimdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
+</p>
+<a href="#">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
+</a>
