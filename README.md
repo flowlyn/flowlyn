@@ -40,7 +40,6 @@ Hobbies: Cheating, Sleep, Programming
 <br>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Views-109,426-gray?style=for-the-badge"/></a>
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/biscurimdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
 </p>
 <a href="#">
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=footer">
