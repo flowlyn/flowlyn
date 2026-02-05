@@ -20,7 +20,7 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://avatars.githubusercontent.com/u/258620013?v=4" width="230"/> 
+<a href="#"><img align="left" src="https://i.pinimg.com/1200x/77/c7/28/77c728ecadad1f77a5bfc1f201ff8148.jpg" width="230"/> 
 
 
 ```lua
@@ -29,9 +29,9 @@ Flowlyn
 OS: Windows 11 x64
 Shell: Windows Terminal
 Pronouns: Flowlyn
-Location: EUA, Florida
-Skills: Lua, JavaScript, HTML, CSS
-Currently learning: Phyton, C#, C++
+Location: São Paulo
+Skills: Lua, JavaScript, HTML, CSS, python
+Currently learning: C#, C++
 Hobbies: Cheating, Sleep, Programming
 ```
 
