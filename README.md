@@ -20,7 +20,7 @@
 > neofetch
 ```
 
-<a href="#"><img align="left" src="https://i.pinimg.com/1200x/77/c7/28/77c728ecadad1f77a5bfc1f201ff8148.jpg" width="230"/> 
+<a href="#"><img align="left" src="https://cdn.discordapp.com/avatars/1197387246349864970/1a8ae0e0780c7dfc347cf6e09c71d295.webp?size=160" width="230"/> 
 
 
 ```lua
